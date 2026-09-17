@@ -1,39 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everybody!!+My+Name+is+Wallison+Mendes;I'm+Study+Data+Base+and+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wolli-Mendes&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 
-
-<div align="center">  
-<br><p align="center"><b><h3>My Skills</h3></b></p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-## 
-
-<div align="center">  
-<br><p align="center"><b><h3>I'm Studing</h3></b></p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-## 
-
 <div align="center">
-  <a href="https://instagram.com/mendes_wolli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/9275vxXw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wolli101731@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wallison-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+# Wallison Mendes
+
+***Data Analyst • Business Intelligence • SQL • Python • .NET • C#***
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wolli-mendes?cardType=github&theme=github-dark&fontFamily=Ubuntu%20Mono&preferLogin=false&Points.ContributedToNotOwnerRepositories=1&Points.DirectStars=1&Points.IndirectStars=0&Points.PullRequestsToAnotherRepositories=0&Points.CommitsToAnotherRepositories=1)](https://git.io/awesome-stats-card)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallison-mendes/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendes593@icloud.com)
+
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+## Sobre Mim
 
+Profissional de Dados e Tecnologia com experiência em análise de dados, Business Intelligence, automação de processos e desenvolvimento de soluções. Atuo com SQL Server, Python, Power BI, Excel e desenvolvimento em .NET/C#, além de integração de sistemas, APIs e bancos de dados.
 
+Minha trajetória combina conhecimento de negócio, dados e tecnologia, permitindo compreender processos de ponta a ponta, transformar informações em indicadores e desenvolver soluções voltadas à automação, eficiência operacional e apoio à tomada de decisão.
+
+### Stack Principal
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Dados & BI
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### Desenvolvimento
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white)
+
+### Ferramentas & DevOps
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
